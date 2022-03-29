@@ -89,7 +89,7 @@
 
 ### IBM MarketScan
 - _Cost_: $$$$$
-- _Requires_: $$$$$
+- _Requires_: talking to a sales rep
 - _Includes_: demographic data, geographic location, inpatient and outpatient claims, medical claims of over 250 million patients 
 - _Access_: https://www.ibm.com/products/marketscan-research-databases/databases
 - _Temporal coverage_: 2010 through 2019
