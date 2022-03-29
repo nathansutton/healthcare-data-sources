@@ -22,7 +22,7 @@
 - _Labels_: COVID 
 - _Requires_: No application
 - _Includes_: imaging, demographics
-- _Reference_: https:///doi.org/10.1117/1.JMI.8.S1.010902
+- _Reference_: https://doi.org/10.1117/1.JMI.8.S1.010902
 - _Access_: https://data.midrc.org/DD
 - _Temporal coverage_: 2019 onwards
 - _Source_: Multiple Insitutions
