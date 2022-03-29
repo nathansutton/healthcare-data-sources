@@ -39,3 +39,32 @@
 - _Temporal coverage_: 2002 through 2017
 - _Source_: Single Insitution - Stanford Hospital
 - _Owner_: Stanford Machine Learning Group
+
+### NIH Chest X-ray dataset
+- _Cost_: Free
+- _Size_: 108,948 chest radiographs of 32,717 patients
+- _Labels_: 9 different pathologies 
+- _Requires_: No application
+- _Includes_: imaging
+- _Reference_: Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald M. Summers; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2097-2106
+- _Access_: https://stanfordmlgroup.github.io/competitions/chexpert/
+- _Temporal coverage_: 2002 through 2017
+- _Source_: Multiple Insitutions
+- _Owner_: National Institute of Health
+
+## Medical Surveys
+
+### NHIS:
+- _Cost_: Free
+- _Size_: Variable, 50-100k responses annually
+- _Labels_: None
+- _Requires_: No application
+- _Includes_: self-reported health outcomes, demographics, socioeconomic data
+- _Reference_: https://doi.org/10.18128/D070.V6.4"
+- _Access_: https://nhis.ipums.org/
+- _Temporal coverage_: 1963 through present
+- _Source_: Census Microdata
+- _Owner_: IPUMS
+
+## Medical Claims
+
