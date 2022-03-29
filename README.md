@@ -77,6 +77,18 @@
 
 ## Medical Claims Databases
 
+
+### Medicare Claims Synthetic Public Use Files
+- _Cost_: Free
+- _Requires_: No application
+- _Includes_: syntethic billing data that mirrors the limited CMS datasets
+- _Reference_: Borton, J. M., et al. "Data Entrepreneurs’ Synthetic PUF: A Working PUF as an Alternative to Traditional Synthetic and Non-synthetic PUFs." JSM Proceedings, Survey Research Methods Section (2010).
+- _Access_: https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DE_Syn_PUF
+- _Temporal coverage_: 2008 through 2010
+- _Source_: Multiple institutions
+- _Owner_: Centers for Medicare and Medicaid Services
+
+
 ### National Inpatient Sample
 - _Cost_: $150 to $1000 per year depending on your situation and data selected
 - _Size_: Huge, this approximates a 20-percent stratified sample of all hospital discharges
