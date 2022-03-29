@@ -3,7 +3,6 @@
 ## Electronic Health Records
 
 ### MIMIC
-- _Source_: Electronic Health Record
 - _Cost_: Free
 - _Size_: 49,785 hospital admissions of 38,597 patients 
 - _Labels: None
@@ -18,7 +17,6 @@
 ## Medical Images
 
 ### CheXpert:
-- _Source_: Medical Images
 - _Cost_: Free
 - _Size_: 224,316 chest radiographs of 65,240 patients
 - _Labels_: 14 pathologies 
