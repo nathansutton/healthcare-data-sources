@@ -88,6 +88,14 @@
 - _Source_: Multiple institutions
 - _Owner_: Centers for Medicare and Medicaid Services
 
+### IBM MarketScan
+- _Cost_: $$$$$
+- _Requires_: $$$$$
+- _Includes_: demographic data, geographic location, inpatient and outpatient claims, medical claims of over 250 million patients 
+- _Access_: https://www.ibm.com/products/marketscan-research-databases/databases
+- _Temporal coverage_: 2010 through 2019
+- _Source_: Multiple institutions
+- _Owner_: IBM
 
 ### National Inpatient Sample
 - _Cost_: $150 to $1000 per year depending on your situation and data selected
