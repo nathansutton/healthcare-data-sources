@@ -13,6 +13,17 @@
 - _Source_: Single Insitution - Beth Israel Deaconess Medical Center
 - _Owner_: MIT Laboratory for Computational Physiology
 
+### SYNTHEA
+- _Cost_: Free
+- _Size_: variable
+- _Requires_: no application or restrictions
+- _Includes_: demographics, vitals, labs, procedures, medications, imaging 
+- _Reference_: https://doi.org/10.1093/jamia/ocx147
+- _Access_: https://synthetichealth.github.io/synthea/
+- _Temporal coverage_: 2001 through 2012
+- _Source_: synthetic data
+- _Owner_: MITRE Corporation
+ 
 ## Medical Images
 
 ### MIDRC (Medical Imaging and Data Resource Center)
