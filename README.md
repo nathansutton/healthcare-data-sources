@@ -77,7 +77,6 @@
 
 ## Medical Claims Databases
 
-
 ### Medicare Claims Synthetic Public Use Files
 - _Cost_: Free
 - _Requires_: No application
@@ -107,3 +106,13 @@
 - _Source_: Multiple Institutions 
 - _Owner_: Healthcare Cost and Utilization Project 
  
+## Summary Statistics
+
+## Dartmouth Health Atlas
+- _Cost_: Free
+- _Requires_: no application or restrictions
+- _Includes_: medical reimbursement rates, access to care, mortality, hospital capacity 
+- _Access_: https://data.dartmouthatlas.org/#rates
+- _Temporal coverage_: 2011 through 2019
+- _Source_: Multiple institutions
+- _Owner_: Dartmouth
