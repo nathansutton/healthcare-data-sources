@@ -108,7 +108,7 @@
  
 ## Summary Statistics
 
-## Dartmouth Health Atlas
+### Dartmouth Health Atlas
 - _Cost_: Free
 - _Requires_: no application or restrictions
 - _Includes_: medical reimbursement rates, access to care, mortality, hospital capacity 
