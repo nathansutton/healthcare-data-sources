@@ -58,7 +58,7 @@
 - _Reference_: Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald M. Summers; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2097-2106
 - _Access_: https://stanfordmlgroup.github.io/competitions/chexpert/
 - _Temporal coverage_: 2002 through 2017
-- _Source_: Multiple Insitutions
+- _Source_: Multiple Institutions
 - _Owner_: National Institute of Health
 
 ## Medical Surveys
