@@ -79,7 +79,7 @@
 ### Medicare Claims Synthetic Public Use Files
 - _Cost_: Free
 - _Requires_: No application
-- _Includes_: syntethic billing data that mirrors the limited CMS datasets
+- _Includes_: synthetic billing data that mirrors the limited CMS datasets
 - _Reference_: Borton, J. M., et al. "Data Entrepreneurs’ Synthetic PUF: A Working PUF as an Alternative to Traditional Synthetic and Non-synthetic PUFs." JSM Proceedings, Survey Research Methods Section (2010).
 - _Access_: https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DE_Syn_PUF
 - _Temporal coverage_: 2008 through 2010
