@@ -10,7 +10,7 @@
 - _Reference_: https://doi.org/10.13026/C2XW26
 - _Access_: https://mimic.mit.edu/docs/gettingstarted
 - _Temporal coverage_: 2001 through 2012
-- _Source_: Single Insitution - Beth Israel Deaconess Medical Center
+- _Source_: Single Institution - Beth Israel Deaconess Medical Center
 - _Owner_: MIT Laboratory for Computational Physiology
 
 ### SYNTHEA
@@ -20,7 +20,6 @@
 - _Includes_: demographics, vitals, labs, procedures, medications, imaging 
 - _Reference_: https://doi.org/10.1093/jamia/ocx147
 - _Access_: https://synthetichealth.github.io/synthea/
-- _Temporal coverage_: 2001 through 2012
 - _Source_: synthetic data
 - _Owner_: MITRE Corporation
  
