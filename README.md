@@ -75,6 +75,13 @@
 
 ## Medical Claims Databases
 
+### Humana Synthetic data
+- _Cost_: Free
+- _Requires_: No application for the sample (but a company application for the entire extract)
+- _Includes_: synthetic medical and pharmacy billing data for 1.5m patients
+- _Access_: https://developers.humana.com/syntheticdata
+- _Owner_: Humana
+
 ### Medicare Claims Synthetic Public Use Files
 - _Cost_: Free
 - _Requires_: No application
